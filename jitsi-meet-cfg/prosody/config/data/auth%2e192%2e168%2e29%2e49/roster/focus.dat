@@ -1,0 +1,10 @@
+return {
+	[false] = {
+		["pending"] = {};
+		["version"] = 2;
+	};
+	["focus.192.168.29.49"] = {
+		["groups"] = {};
+		["subscription"] = "from";
+	};
+};

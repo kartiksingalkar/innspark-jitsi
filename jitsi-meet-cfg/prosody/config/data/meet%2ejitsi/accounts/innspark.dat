@@ -1,0 +1,6 @@
+return {
+	["iteration_count"] = 10000;
+	["salt"] = "9bafc3e6-0065-4bce-98fe-c269039bc197";
+	["stored_key"] = "5183707c18de7fd07bab713a373a4f3e35afbae4";
+	["server_key"] = "090edbdd60a408de27527bbde3565e4704a0422a";
+};

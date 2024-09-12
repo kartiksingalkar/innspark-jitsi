@@ -1,0 +1,11 @@
+desiredusername
+innspark
+innsparkadmin
+
+
+same pass as username
+
+
+
+
+Generated JWT Secret Key: c6f520f5601e38d4bbac63fe0c88d4f8e35e27646f93e3138525b235a0dd82b5
